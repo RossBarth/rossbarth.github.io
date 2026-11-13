@@ -5,7 +5,7 @@
 <br>
 
 <p style='font;text-align:center'>
-<img src="profilePicA.jpeg" alt="Me" style="float:left; width:150px; height:150px; border-radius:50px"> Welcome! My name is Ross Barth, nice to meet you :) I am a 24 y.o technology geek, soon-to-be ICT Applications Development Diploma graduate. I am hard working, passionate about most things technical, and an honest worker. Outside of the work space, my time is taken up by catching most live-viewing of football matches and motorsport weekends, while passively I go on a journey to discover new music in </p>
+<img src="avatar.png" alt="Me" style="float:left; width:150px; height:150px; border-radius:50px"> Welcome! My name is Ross Barth, nice to meet you :) I am a 24 y.o technology geek, soon-to-be ICT Applications Development Diploma graduate. I am hard working, passionate about most things technical, and an honest worker. Outside of the work space, my time is taken up by catching most live-viewing of football matches and motorsport weekends, while passively I go on a journey to discover new music in </p>
 <br>
 <hr>
 
@@ -90,9 +90,14 @@ insert button left and float description right
 <br>
 <hr>
 
-<p style='text-align:center'>Thank you for your considersation. Should you have any questions, do not hesitate to submit them in the textbox below. If you would like to schedule an interview, contact me via my aforementioned details.</p>
+<p style='text-align:center'>Thank you for your consideration. Should you have any questions, do not hesitate to submit them in the textbox below. If you would like to schedule an interview, contact me via my aforementioned details.</p>
 <br>
 <hr>
 
-<textarea placeholder='submit your questions here' style=''></textarea>
+<!--<textarea style='margin-top:50px; margin-bottom:20px; margin-right: 100px; margin-left:250px; 
+height:100px; width:500px; text-align: center'placeholder='submit your questions here'></textarea>
+<form>
+</form>
+-->
+<a style='justify-content:center; text-align:center; display:inline-block; background-color:seagreen; color:white; padding:10px 10px; border-radius:5px; 'href=''>Email</a>
 
