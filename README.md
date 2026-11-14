@@ -38,9 +38,7 @@
 
 <div style='text-align:right;'>
 
-<h2 style='text-align:right;color:darksalmon;'>Skills</h2>
-<hr style='width:35%;border-top:1px solid darksalmon;'>
-<br>
+<h2 style='text-align:right;color:darksalmon;text-decoration-line:underline;text-decoration-thickness:25%;text-decoration-color:darksalmon'>Skills</h2>
 <br>
 <p style=''><b>Programming Languages</b></p>
 <p style='color:darkslategrey;text-align:right'>Java - Object Oriented</p>
