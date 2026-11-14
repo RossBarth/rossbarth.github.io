@@ -6,7 +6,7 @@
 <br>
 
 <p style='font;text-align:center; margin-top:15px'>
-<img src="profilePicA.jpeg" alt="Me" style="margin-right:30px;float:left; width:150px; height:150px; border-width:medium; border-style:solid; border-radius:50px"> Welcome! My name is Ross Barth, nice to meet you :) I am a 24 y.o technology geek, soon-to-be ICT Applications Development Diploma graduate. I am hard working, passionate about most things technical, and an honest worker. Outside of the work space, my time is taken up by catching most live-viewing of football matches and motorsport weekends, while passively I go on a journey to discover new music in </p>
+<img src="copy.jpeg" alt="Me" style="margin-right:30px;float:left; width:150px; height:150px; border-width:medium; border-style:solid; border-radius:50px"> Welcome! My name is Ross Barth, nice to meet you :) I am a 24 y.o technology geek, soon-to-be ICT Applications Development Diploma graduate. I am hard working, passionate about most things technical, and an honest worker. Outside of the work space, my time is taken up by catching most live-viewing of football matches and motorsport weekends, while passively I go on a journey to discover new music in </p>
 <br>
 <br>
 <hr>
