@@ -39,10 +39,10 @@
 <div style='text-align:right;'>
 
 <h2 style='text-align:right;color:darksalmon;'>Skills</h2>
-<hr style='float:right;width:35%;color:darksalmon;'>
+<hr style='width:35%;color:darksalmon;'>
 <br>
 <br>
-<p style='text-align:right'><b>Programming Languages</b></p>
+<p style=''><b>Programming Languages</b></p>
 <p style='color:darkslategrey;text-align:right'>Java - Object Oriented</p>
 <span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
 <span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
