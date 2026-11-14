@@ -42,7 +42,8 @@
 <br>
 <p style='text-align:right'><b>Programming Languages</b></p>
 <p style='color:darkslategrey;text-align:right'>Java - Object Oriented</p>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;margin-right:10px'></span>
+<br>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;margin-right:10px'></span>
 <!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
 <span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:70'></span>
 <span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;position:absolute;right:100'></span>
@@ -53,7 +54,7 @@
 
 <p style='text-align:right'><b>Programming Languages</b></p>
 <p style='color:darkslategrey;text-align:right'>Python</p>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;margin-right:10px'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;margin-right:10px'></span>
 <!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
 <span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:70;height:25px;width:25px;'></span>
 <span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:100;height:25px;width:25px;'>
@@ -65,7 +66,7 @@
 
 <p style='strong;text-align:right'><b>Artificial Intelligence</b></p>
 <p style='color:darkslategrey;text-align:right'>Modal Agents & Expert Systems</p>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;margin-right:10px'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;margin-right:10px'></span>
 <!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
 <span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:70'></span>
 <span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;position:absolute;right:100'></span>
@@ -113,13 +114,13 @@
 <h2 style='text-align:center;color:darksalmon'>My Projects</h2>
 <p style='text-align:center'><b>Snake Game</b></p>
 <p style='text-align:center'>Completing the snake-game project was a challenge, aimed towards my understanding of the Python language, as well as how I apply what I have learned thus far. </p>
-<a style='padding:5px 8px;position:absolute;margin-left:50%;background-color:midnightblue;border-radius:5%' href=''>GitHub</a>
+<a style='padding:5px 8px;margin:auto;background-color:midnightblue;border-radius:5%' href=''>GitHub</a>
 <br>
 <br>
 
 <p style='text-align:center'><b>BlackJack</b></p>
 <p style='text-align:center'>The BlackJack project was the first project in the Python language that would fall under the Capstone Projects. There would be a change in how the material would be taught, as from that moment each day would have a project that would be the goal for that particular session. It showed me how to go from just learning the material, to actually putting it into a constructive, practical exercise.</p>
-<a style='padding:5px 8px;background-color:midnightblue;position:absolute;margin-left:50%;border-radius:5%' href=''>GitHub</a>
+<a style='padding:5px 8px;background-color:midnightblue;margin:auto;border-radius:5%' href=''>GitHub</a>
 <br>
 <br>
 
@@ -129,22 +130,22 @@
 <br>
 <br>
 <h2 style='color:darksalmon;text-align:center'>FAQ (Frequently Asked Questions)</h2>
-<p style='text-align:left'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='float:left; height:75px; width:75px; border-radius:50px;'>What caught your attention about this position?</p>
+<p style='text-align:left;margin-left:25px'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='float:left; height:75px; width:75px; border-radius:50px;'>What caught your attention about this position?</p>
 <br>
 <br>
 
 <br>
-<p style='text-align:right'><img src="https://www.shutterstock.com/image-vector/simple-outline-man-glasses-wearing-600w-2730742285.jpg" alt="Avatar" style='float:right; height:100px; width:100px; border-radius:50px;'>I found myself around digital and analog technology from a young age, and my curiosity drove me to further understand more about it. Therefore, I have an interest in adding new skills to my skillset.</p>
+<p style='text-align:right'><img src="https://www.shutterstock.com/image-vector/simple-outline-man-glasses-wearing-600w-2730742285.jpg" alt="Avatar" style='float:right; height:100px; width:100px; border-radius:50px;'>I found myself around digital and analog technology from a young age, and my curiosity drove me to further understand more about it. Therefore, I have an interest in adding new skills to my skill-set.</p>
 <br>
 <br>
 
 <br>
-<p style='text-align:left'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='float:left; height:75px; width:75px; border-radius:50px;'>Why would you be interested in working for our company?</p>
+<p style='text-align:left;margin-left:25px'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='float:left; height:75px; width:75px; border-radius:50px;'>Why would you be interested in working for our company?</p>
 <br>
 <br>
 
 <br>
-<p style='text-align:justify'><img src="https://www.shutterstock.com/image-vector/simple-outline-man-glasses-wearing-600w-2730742285.jpg" alt="Avatar" style='float:right; height:100px; width:100px; border-radius:50px;'>While I am not familiar with the companys' services/products, I am keen to situate myself in new environments to challenge my comfort-zone, as well as further my knowledge by chasing after new experiences.</p>
+<p style='text-align:justify'><img src="https://www.shutterstock.com/image-vector/simple-outline-man-glasses-wearing-600w-2730742285.jpg" alt="Avatar" style='float:right; height:100px; width:100px; border-radius:50px;'>While I am not familiar with the company's services/products, I am keen to situate myself in new environments to challenge my comfort-zone, as well as further my knowledge by chasing after new experiences.</p>
 <br>
 <br>
 <br>
@@ -154,7 +155,8 @@
 <!--<hr>-->
 
 <br>
-<p style='text-align:center'>Thank you for your consideration. Should you be interested in my servies, I can be contacted by my aforementioned details.</p>
+<h2 style='color:darksalmon;text-align:center'>THANK YOU</h2>
+<p style='text-align:center'>Thank you for your consideration. Should you be interested in my services, I can be contacted by my aforementioned details.</p>
 <br>
 <hr>
 
