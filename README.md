@@ -36,42 +36,42 @@
 <hr>
 
 
+<div style='text-align:right;'>
 
 <h2 style='text-align:right;color:darksalmon;'>Skills</h2>
-<!--<hr style=position:absolute;right:0;width:35%;color:darksalmon>-->
+<hr style='float:right;width:35%;color:darksalmon'>
 <br>
 <p style='text-align:right'><b>Programming Languages</b></p>
 <p style='color:darkslategrey;text-align:right'>Java - Object Oriented</p>
-<br>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;margin-right:10px'></span>
-<!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:70'></span>
-<span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;position:absolute;right:100'></span>
-<span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:130;height:25px;width:25px;'></span>-->
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;height:25px;width:25px;'></span>
 
 <br>
 <br>
 
 <p style='text-align:right'><b>Programming Languages</b></p>
 <p style='color:darkslategrey;text-align:right'>Python</p>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;margin-right:10px'></span>
-<!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
-<span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:70;height:25px;width:25px;'></span>
-<span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:100;height:25px;width:25px;'>
-</span>
-<span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:130;height:25px;width:25px;'></span>-->
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;height:25px;width:25px;'></span>
+
 
 <br>
 <br>
 
 <p style='strong;text-align:right'><b>Artificial Intelligence</b></p>
 <p style='color:darkslategrey;text-align:right'>Modal Agents & Expert Systems</p>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;margin-right:10px'></span>
-<!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:70'></span>
-<span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;position:absolute;right:100'></span>
-<span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:130;height:25px;width:25px;'></span>-->
-
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;'></span>
+<span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;height:25px;width:25px;'></span>
+</div>
 <br>
 <br>
 
@@ -114,13 +114,13 @@
 <h2 style='text-align:center;color:darksalmon'>My Projects</h2>
 <p style='text-align:center'><b>Snake Game</b></p>
 <p style='text-align:center'>Completing the snake-game project was a challenge, aimed towards my understanding of the Python language, as well as how I apply what I have learned thus far. </p>
-<a style='color:white;padding:5px 8px;margin-left:500px;background-color:midnightblue;border-radius:5%' href=''>GitHub</a>
+<a style='color:white;padding:5px 8px;margin-left:450px;background-color:midnightblue;border-radius:5%' href='https://github.com/BlindBoy123/snake-gmae'>GitHub</a>
 <br>
 <br>
 
 <p style='text-align:center'><b>BlackJack</b></p>
 <p style='text-align:center'>The BlackJack project was the first project in the Python language that would fall under the Capstone Projects. There would be a change in how the material would be taught, as from that moment each day would have a project that would be the goal for that particular session. It showed me how to go from just learning the material, to actually putting it into a constructive, practical exercise.</p>
-<a style='color:white;padding:5px 8px;background-color:midnightblue;margin-left:500px;border-radius:5%' href=''>GitHub</a>
+<a style='color:white;padding:5px 8px;background-color:midnightblue;margin-left:450px;border-radius:5%' href=''>GitHub</a>
 <br>
 <br>
 
@@ -130,7 +130,7 @@
 <br>
 <br>
 <h2 style='color:darksalmon;text-align:center'>FAQ (Frequently Asked Questions)</h2>
-<p style='text-align:left;'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='margin-right:20px;float:left; height:75px; width:75px; border-radius:50px;'>What caught your attention about this position?</p>
+<p style='text-align:left;'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='margin-right:40px;float:left; height:75px; width:75px; border-radius:50px;'>What caught your attention about this position?</p>
 <br>
 <br>
 
@@ -140,7 +140,7 @@
 <br>
 
 <br>
-<p style='text-align:left;margin-left:25px'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='margin-right:20px;float:left; height:75px; width:75px; border-radius:50px;'>Why would you be interested in working for our company?</p>
+<p style='text-align:left;margin-left:25px'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='margin-right:40px;float:left; height:75px; width:75px; border-radius:50px;'>Why would you be interested in working for our company?</p>
 <br>
 <br>
 
