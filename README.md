@@ -39,7 +39,7 @@
 <div style='text-align:right;'>
 
 <h2 style='text-align:right;color:darksalmon;'>Skills</h2>
-<hr style='width:35%;border:1px solid darksalmon;'>
+<hr style='width:35%;border-top:1px solid darksalmon;'>
 <br>
 <br>
 <p style=''><b>Programming Languages</b></p>
