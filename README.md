@@ -42,7 +42,7 @@
 <br>
 <p style='text-align:right'><b>Programming Languages</b></p>
 <p style='color:darkslategrey;text-align:right'>Java - Object Oriented</p>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;right:10px'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;margin-right:10px'></span>
 <!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
 <span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:70'></span>
 <span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;position:absolute;right:100'></span>
@@ -53,7 +53,7 @@
 
 <p style='text-align:right'><b>Programming Languages</b></p>
 <p style='color:darkslategrey;text-align:right'>Python</p>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;right:10px'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;margin-right:10px'></span>
 <!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
 <span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:70;height:25px;width:25px;'></span>
 <span style='border-color:olive;border-style:solid;border-width:thin;background-color:white;border-radius:50%;display:inline-block;position:absolute;right:100;height:25px;width:25px;'>
@@ -65,7 +65,7 @@
 
 <p style='strong;text-align:right'><b>Artificial Intelligence</b></p>
 <p style='color:darkslategrey;text-align:right'>Modal Agents & Expert Systems</p>
-<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;right:10px'></span>
+<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:static;margin-right:10px'></span>
 <!--<span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:40'></span>
 <span style='height:25px;width:25px;background-color:olive;border-radius:50%;display:inline-block;position:absolute;right:70'></span>
 <span style='height:25px;width:25px;border-style:solid;border-width:thin;border-color:olive;border-radius:50%;display:inline-block;position:absolute;right:100'></span>
@@ -73,11 +73,11 @@
 
 <br>
 <br>
-<hr>
 
 
 
 
+<br>
 <h2 style='color:darksalmon'>Work Experience</h2>
 <p style=''><b>iStore Waterfront</b></p>
 <p style='color:olive'><b>Sales Consultant</b></p>
@@ -112,18 +112,21 @@
 
 <h2 style='text-align:center;color:darksalmon'>My Projects</h2>
 <p style='text-align:center'><b>Snake Game</b></p>
-<p style='text-align:center'>Completing the snake-game project was a challenge, aimed towards my understanding of the Python language, as well as how I apply what I have learned thusfar. </p>
-<a style='position:absolute;margin-left:550px' href=''>GOTO</a>
+<p style='text-align:center'>Completing the snake-game project was a challenge, aimed towards my understanding of the Python language, as well as how I apply what I have learned thus far. </p>
+<a style='padding:5px 8px;position:absolute;margin-left:50%;background-color:midnightblue;border-radius:5%' href=''>GitHub</a>
 <br>
 <br>
 
-<p style='text-align:center'><b>Blackjack</b></p>
+<p style='text-align:center'><b>BlackJack</b></p>
 <p style='text-align:center'>The BlackJack project was the first project in the Python language that would fall under the Capstone Projects. There would be a change in how the material would be taught, as from that moment each day would have a project that would be the goal for that particular session. It showed me how to go from just learning the material, to actually putting it into a constructive, practical exercise.</p>
-<a style='position:absolute;margin-left:550px' href=''>GOTO</a>
+<a style='padding:5px 8px;background-color:midnightblue;position:absolute;margin-left:50%;border-radius:5%' href=''>GitHub</a>
 <br>
 <br>
 
 
+
+
+<br>
 <br>
 <h2 style='color:darksalmon;text-align:center'>FAQ (Frequently Asked Questions)</h2>
 <p style='text-align:left'><img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" alt="Avatar" style='float:left; height:75px; width:75px; border-radius:50px;'>What caught your attention about this position?</p>
